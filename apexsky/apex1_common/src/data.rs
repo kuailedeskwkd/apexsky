@@ -4,7 +4,7 @@ use named_constants::named_constants;
 use secrecy::SecretString;
 
 /*
- * GameVersion=3.0.2.23
+ * GameVersion=3.0.3.32
  */
 
 pub static GAME_VER_DX12_PROCESS_NAME: Lazy<SecretString> =
